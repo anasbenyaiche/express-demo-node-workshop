@@ -1,0 +1,30 @@
+[
+  {
+    "id": 1624189865816,
+    "username": "new user",
+    "email": "newuser@gmail.com",
+    "age": 25,
+    "profession": "new job"
+  },
+  {
+    "id": 1624189886963,
+    "username": "newer user",
+    "email": "newuser@gmail.com",
+    "age": 25,
+    "profession": "new job"
+  },
+  {
+    "id": 1624190234275,
+    "username": "newer user",
+    "email": "newuser@gmail.com",
+    "age": 25,
+    "profession": "new job"
+  },
+  {
+    "id": 1624190246237,
+    "username": "Xuser",
+    "email": "newuser@gmail.com",
+    "age": 25,
+    "profession": "new job"
+  }
+]
